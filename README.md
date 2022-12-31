@@ -1,2 +1,3 @@
 # bahubali
-thsi is for bahubali movie poster interface and for titles 
+thsi is for bahubali movie  titles 
+titles styles
